@@ -43,7 +43,7 @@ Here is a list of the techonologies I have any experience with (0 - means "have 
 
 # <a name="skills-backend"></a>Backend
 * Javascript
-  + NodeJS ([learning path]()): 5 - using at work | `02.05.2017` learning
+  + NodeJS ([learning path](https://trello.com/c/JknHP9qe/1-server-side-development-with-nodejs)): 5 - using at work | `02.05.2017` [learning](https://github.com/faliah/node_studies)
   + ExpressJS: 4 - using at work
 
 * C#
